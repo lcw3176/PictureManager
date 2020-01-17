@@ -1,0 +1,14 @@
+D:\project\Cs\PictureManager\PictureManager\bin\Debug\PictureManager.exe.config
+D:\project\Cs\PictureManager\PictureManager\bin\Debug\PictureManager.exe
+D:\project\Cs\PictureManager\PictureManager\bin\Debug\PictureManager.pdb
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.csprojAssemblyReference.cache
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\MainWindow.g.cs
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\App.g.cs
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager_MarkupCompile.cache
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager_MarkupCompile.lref
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\MainWindow.baml
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.g.resources
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.Properties.Resources.resources
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.csproj.GenerateResource.cache
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.exe
+D:\project\Cs\PictureManager\PictureManager\obj\Debug\PictureManager.pdb
